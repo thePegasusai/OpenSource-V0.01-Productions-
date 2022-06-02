@@ -3,7 +3,8 @@ An open source collection of beats for artists’ globally to use for commercial
 
 This project is intended for the purpose of global downloads for any purpose relevant to the end licensees use case. 
 
-Simply download the files here (go to your streaming platform of preference to listen to the audio) Simply type in POTUS - OpenSource v0.01. All names listed in streaming platform are directly linked to the name of the associated file in our GitHub repository. 
+Listen to the tracks on all streaming platforms, vis a vis the title "Opensource, Vol.1" {by various artists}
+// all tracks are in chronological order matching the number from Amazon Music, Tidal, Spotify, Apple Music, etc. to the number in this here repository.
 
 Love to all, incredibly yours , from the cast of POTUS inc and friends. 
 
